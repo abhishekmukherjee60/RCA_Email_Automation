@@ -1,0 +1,6 @@
+﻿.env
+*.ipynb_checkpoints/
+__pycache__/
+rca_replies/
+drafted_log.json
+.venv/
